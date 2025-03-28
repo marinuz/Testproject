@@ -1,0 +1,5 @@
+[
+  { "name": "wasmachine", "delay_hours": 2 },
+  { "name": "vaatwasser", "delay_hours": 0 },
+  { "name": "wasdroger", "delay_hours": 1 }
+]
